@@ -22,6 +22,4 @@ git push -u origin new_branch  % upload new_branch to github
 % when only one file is changed, you can use git commit -am "commit message" to commit the change.
 % git reset  git % undo last commit
 
-in plas 
-this is master
 
