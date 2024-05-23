@@ -8,7 +8,7 @@ git colon 'ssh key'
 git init 
 git remote 'ssh key'
 git remote -v  % check 
-git push origin 
+git push -u origin master     % -u,you can use just 'git push' to do the same thing.
 git commit -m '' -m ''
 
-try
+a little change 
