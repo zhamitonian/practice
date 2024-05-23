@@ -20,3 +20,5 @@ git push -u origin new_branch  % upload new_branch to github
 %%after merge,git pull to get the latest version of the code.
 %% git branch -d new_branch  % delete new_branch
 % when only one file is changed, you can use git commit -am "commit message" to commit the change.
+
+in plas 
