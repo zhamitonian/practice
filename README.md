@@ -20,7 +20,8 @@ git push -u origin new_branch  % upload new_branch to github
 %%after merge,git pull to get the latest version of the code.
 %% git branch -d new_branch  % delete new_branch
 % when only one file is changed, you can use git commit -am "commit message" to commit the change.
-% git reset  git % undo last commit
-
-1
+% git reset   % undo last add
+%git reset head~1  % undo last commit
+%git log  % check commit history
+%git reset --hard 5dfb902cbad06e6377d0b314e865194c0c36098c
 
