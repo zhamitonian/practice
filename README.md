@@ -15,5 +15,5 @@ git commit -m '' -m ''
 git branch  % check your branch;* you currently on
 git checkout -b new_branch  % create new branch
 git checkout master  % switch to master branch
- 
+git diff new_branch % compare new_branch with master
  wep9jwfipj
